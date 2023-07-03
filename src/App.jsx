@@ -9,9 +9,9 @@ function App() {
       gsgfdshhf
       <Navbar />
       <div style={{ paddingTop: '70px' }}>
-         Other content of your application 
+       <Hero/> 
       </div>
-     <Hero/>
+     
     </div>
   );
 }
