@@ -6,9 +6,9 @@ import Hero from './Components/Hero';
 function App() {
   return (
     <div>
-      gsgfdshhf
+      
       <Navbar />
-      <div style={{ paddingTop: '70px' }}>
+      <div style={{ paddingTop: '90px' }}>
        <Hero/> 
       </div>
      
